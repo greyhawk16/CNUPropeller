@@ -1,4 +1,4 @@
-CNUPropeller v1.00
+CNUPropeller v1.0
 저작자: 김주형, 양준헌, 김병수 교수님.
 
 프로펠러를 디자인하고 분석하기 위한 앱.
@@ -15,7 +15,7 @@ xfoil을 사용하고 Jblade의 코드 일부를 참고하여 GNU GENERAL PUBLIC
 
 ---
 
-CNUPropeller v1.00
+CNUPropeller v1.0
 Author: Juhyeong Kim, Junheon Yang, Professor Byeongsoo Kim.
 
 Application for designing and analyzing propellers.
