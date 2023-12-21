@@ -16,7 +16,7 @@ xfoil을 사용하고 Jblade의 코드 일부를 참고하여 GNU GENERAL PUBLIC
 ---
 
 CNUPropeller v1.0
-Author: Juhyeong Kim, Junheon Yang, Professor Byeongsoo Kim.
+Author: Juhyeong Kim, Joonhun Yang, Professor Byeongsoo Kim.
 
 Application for designing and analyzing propellers.
 CNUPropeller is optimized in MATLAB 2022a and later versions.
